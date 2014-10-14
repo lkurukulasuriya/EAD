@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://web.sliit.lk/" targetNamespace="http://web.sliit.lk/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="convertCToF" type="tns:convertCToF" />
+  <xs:element name="convertCToFResponse" type="tns:convertCToFResponse" />
+  <xs:complexType name="convertCToF">
+    <xs:sequence>
+      <xs:element name="value" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="convertCToFResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

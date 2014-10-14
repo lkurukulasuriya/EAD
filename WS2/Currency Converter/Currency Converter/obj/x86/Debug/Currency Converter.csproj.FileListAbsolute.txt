@@ -1,0 +1,18 @@
+F:\EAD\WS2\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe.config
+F:\EAD\WS2\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+F:\EAD\WS2\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+F:\EAD\WS2\Currency Converter\Currency Converter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\EAD\WS2\Currency Converter\Currency Converter\obj\x86\Debug\Currency_Converter.Form1.resources
+F:\EAD\WS2\Currency Converter\Currency Converter\obj\x86\Debug\Currency_Converter.Properties.Resources.resources
+F:\EAD\WS2\Currency Converter\Currency Converter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\EAD\WS2\Currency Converter\Currency Converter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\EAD\WS2\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.exe
+F:\EAD\WS2\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.pdb
+E:\SLIIT\4th Year\2nd Semester\EAD\4th Week\WS2\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe.config
+E:\SLIIT\4th Year\2nd Semester\EAD\4th Week\WS2\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.exe
+E:\SLIIT\4th Year\2nd Semester\EAD\4th Week\WS2\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.pdb
+E:\SLIIT\4th Year\2nd Semester\EAD\4th Week\WS2\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+E:\SLIIT\4th Year\2nd Semester\EAD\4th Week\WS2\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+E:\SLIIT\4th Year\2nd Semester\EAD\4th Week\WS2\Currency Converter\Currency Converter\obj\x86\Debug\Currency_Converter.Form1.resources
+E:\SLIIT\4th Year\2nd Semester\EAD\4th Week\WS2\Currency Converter\Currency Converter\obj\x86\Debug\Currency_Converter.Properties.Resources.resources
+E:\SLIIT\4th Year\2nd Semester\EAD\4th Week\WS2\Currency Converter\Currency Converter\obj\x86\Debug\Currency Converter.csproj.GenerateResource.Cache
